@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Haitham Abo Elzahab
 
-<!--
-**HaithamAboElzahab/HaithamAboElzahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full-Stack .NET Engineer
 
-Here are some ideas to get you started:
+I am a Senior Full-Stack Software Engineer with 8+ years of experience designing, developing, and maintaining enterprise-grade software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building scalable web applications, multi-tenant platforms, system integrations, and business process automation using modern Microsoft technologies.
+
+---
+
+## 🚀 About Me
+
+* 💼 Senior Full-Stack .NET Engineer at **TAXDOO**
+* 🇩🇪 Based in Koblenz, Germany
+* 🏢 Experienced in Enterprise Software & TaxTech
+* 🔗 Passionate about System Integration & API Design
+* ⚡ Focused on Performance, Scalability & Clean Architecture
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* ASP.NET Core
+* C#
+* .NET
+* REST APIs
+* Entity Framework Core
+* ServiceStack
+
+### Frontend
+
+* Angular
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+
+### Databases
+
+* SQL Server
+* MySQL
+* MongoDB
+
+### Cloud & Integrations
+
+* Microsoft Azure
+* Microsoft Graph API
+* Stripe
+* Mollie
+* Klarna
+* Shopify
+* WooCommerce
+
+---
+
+## 🏗 Areas of Expertise
+
+* Enterprise Software Development
+* TaxTech Solutions
+* Accounting Systems
+* Multi-Tenant Architecture
+* System Integration
+* Business Process Automation
+* Payment Gateway Integration
+* E-Commerce Platforms
+* Performance Optimization
+* API Design
+
+---
+
+## 🌱 Currently Working On
+
+* Enterprise Platform Architecture
+* Clean Architecture
+* High-Performance APIs
+* AI-powered Business Solutions
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/haitham-abo-elzahab-74665b151/
+
+---
+
+⭐ *Always building software that creates real business value.*
