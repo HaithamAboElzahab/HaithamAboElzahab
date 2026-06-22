@@ -1,6 +1,12 @@
+<div align="center">
+
 # 👋 Hi, I'm Haitham Abo Elzahab
 
 ### Senior Full-Stack .NET Engineer
+
+**ASP.NET Core | Angular | Azure | Enterprise Software | TaxTech | System Integration**
+
+</div>
 
 I am a Senior Full-Stack Software Engineer with 8+ years of experience designing, developing, and maintaining enterprise-grade software solutions.
 
