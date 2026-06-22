@@ -7,6 +7,11 @@
 **ASP.NET Core | Angular | Azure | Enterprise Software | TaxTech | System Integration**
 
 </div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+.NET+Engineer;Enterprise+Software+Development;ASP.NET+Core+%7C+Angular+%7C+Azure;TaxTech+%7C+System+Integration+%7C+Automation)](https://git.io/typing-svg)
+
+</div>
 
 I am a Senior Full-Stack Software Engineer with 8+ years of experience designing, developing, and maintaining enterprise-grade software solutions.
 
